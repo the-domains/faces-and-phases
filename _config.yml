@@ -1,0 +1,29 @@
+name: Faces and Phases
+favicon: null
+layout_spectrum: 0.7481971075758338
+typography_spectrum: 0.7526983907446265
+title: Faces and Phases
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.0316102490760386
+  lightness: 0.6540691312402487
+  saturation: 0.7932537097949535
+  rhythmicContrast: 0.11916721658781171
+purpose: []
